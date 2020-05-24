@@ -1,3 +1,5 @@
 # README
 
-An API with all of the products from my merchandise line (otherwise at shopbigirlsclub.com). API also includes their categories, collections, and sizes.
+A Ruby on Rails API for the products, categories, sizes, and collections in my queer-affirming merchandise line (<a href="http://shopbigirlsclub.com/">shopbigirlsclub.com</a>).
+
+<img src="http://code.gabriellealexa.com/wireframe_mod4_5.png">

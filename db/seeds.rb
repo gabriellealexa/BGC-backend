@@ -47,6 +47,19 @@ item12 = Item.create(title: "Bi Furious Sprial Notebook", description: "Shopping
 img1 = Image.create(url: "https://i0.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/08/mockup-76e82839.jpg", item_id: item3.id)
 img2 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/7ddeddea6014a60d4a798c4d8f70e6da.jpg", item_id: item2.id)
 img3 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item1.id)
+img4 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item4.id)
+img5 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item5.id)
+img6 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item6.id)
+img7 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item7.id)
+img8 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item8.id)
+img9 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item9.id)
+img10 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item10.id)
+img11 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item11.id)
+img12 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item12.id)
+
+
+
+
 
 ### ITEM_SIZES
 

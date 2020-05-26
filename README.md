@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails API for the products, categories, sizes, and collections in my queer-affirming merchandise line (<a href="http://shopbigirlsclub.com/">shopbigirlsclub.com</a>).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img src="http://code.gabriellealexa.com/wireframe_mod4_5.png">

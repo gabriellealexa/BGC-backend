@@ -50,15 +50,22 @@ img3 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploa
 img4 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/mockup-e2edea95.jpg", item_id: item4.id)
 img5 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/08/mockup-79c7fb2a.jpg", item_id: item5.id)
 img6 = Image.create(url: "https://i0.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/08/39334.jpg", item_id: item6.id)
-img7 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/7c90d1412cb00d9f218d662fcc18ee26.jpg", item_id: item7.id)
-img8 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item8.id)
-img9 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item9.id)
-img10 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item10.id)
-img11 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item11.id)
-img12 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/6694d8b50a392092b1ff543edc24b245.jpg", item_id: item12.id)
+img7 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/7c90d1412cb00d9f218d662fcc18ee26.jpg", item_id: item8.id)
+img8 = Image.create(url: "https://i2.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/af00aded78cd326a3e5256b8db51c26e.jpg", item_id: item7.id)
+img9 = Image.create(url: "https://i0.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/93432546a9e4ed06c9e44f8b6af2b8a6.jpg", item_id: item9.id)
+img10 = Image.create(url: "https://i0.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/mockup-5a26d5fc.jpg", item_id: item10.id)
+img11 = Image.create(url: "https://i0.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/06/619d33d0ccbfc19788762deab94760b9.jpg", item_id: item11.id)
+img12 = Image.create(url: "https://i1.wp.com/shopbigirlsclub.com/wp-content/uploads/2019/08/34240.jpg", item_id: item12.id)
 
+### CART
+cart1 = Cart.create
 
-
+### CART_ITEMS
+cart_item_1 = CartItem.create(cart_id: cart1.id, item_id: item12.id)
+cart_item_2 = CartItem.create(cart_id: cart1.id, item_id: item2.id)
+cart_item_3 = CartItem.create(cart_id: cart1.id, item_id: item1.id)
+cart_item_4 = CartItem.create(cart_id: cart1.id, item_id: item5.id)
+cart_item_5 = CartItem.create(cart_id: cart1.id, item_id: item8.id)
 
 
 ### ITEM_SIZES
